@@ -26,3 +26,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
+nav:
+  - title: Home
+    url: "/"
+  - title: About
+    url: about.html
+
+
