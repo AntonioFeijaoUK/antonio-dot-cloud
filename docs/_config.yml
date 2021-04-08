@@ -1,71 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+exclude:
+  - node_modules
+  - script
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+sass:
+  style: :compressed
 
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "gh-pages"
+    path: "/"
+  repository_url: "https://github.com/AntonioFeijaoUK/antonio-dot-cloud"
+  
+title: Antonio Cloud Antonio Feijao UK
 description: >- # this means to ignore newlines until "baseurl:"
-  "Antonio.Cloud is Antonio Feijao UK, a Solutions Architect (SA), at Amazon Web Services (AWS)
-  with speciality certifications of Advanced Networking and Security.
-  I help customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
-  This is my personal website.
-  **The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+"Antonio.Cloud is the personal website of Antonio Feijao UK, a Solutions Architect (SA) at Amazon Web Services (AWS).
+Antonio has speciality certifications of Advanced Networking and Security.
+Antonio helps customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads.
+This is my personal website.
+**The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
+  
+google_analytics: UA-131227949-1
 
-title: "Antonio.Cloud"
-
-email: "antoniofeijao@gmail.com"
-
-baseurl:
-
-twitter_username: AntonioFeijaoUK
-
-github_username:  AntonioFeijaoUK
-
-## skins https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-minimal_mistakes_skin: dark  #dark #contrast #air #default: 'default'
-
-search: true
-
-locale: "en-GB"
-
-# Build settings
-markdown: kramdown
-
-remote_theme: mmistakes/minimal-mistakes
-
-# Outputting
-permalink: /:categories/:title/
-
-paginate: 5 # amount of posts to show
-
-paginate_path: /page:num/
-
-timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
@@ -118,35 +78,6 @@ footer:
       url: "https://twitter.com/AntonioFeijaoUK"
     
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      classes: wide
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      classes: wide
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
 show_downloads: false
 
 
@@ -157,9 +88,3 @@ comments:
   disqus:
     shortname: "antoniocloud"
     
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-131227949-1"
-    anonymize_ip: false # default
