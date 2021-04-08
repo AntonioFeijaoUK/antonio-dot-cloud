@@ -1,4 +1,6 @@
 ---
+layout: post
+
 categories:
     - Linux
     - Security
