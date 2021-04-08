@@ -1,24 +1,12 @@
 ---
-layout: home
-classes: wide
-
-author_profile: true
-
-tagline: "Solutions Architect (SA) at Amazon Web Services (AWS) with speciality certifications of `Advanced Networking` and `Security Specialty`."
-
-header:
-  overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
-  overlay_filter: 0.5     # same as adding an opacity of 0.5 to a black background
-  image_description: "Antonio.Cloud"
-  caption: "Photo by [**Antonio Feijao UK**](https://antonio.cloud), snorkeling in Mexican waters."
-  actions:
-    - label: "Antonio Feijao UK"
-      url: "https://antonio.cloud"
 ---
 
 Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
 
 [Antonio.Cloud](https://Antonio.Cloud) is the personal website of [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/). Here I share my personal opinions and some study notes that might help others.
+
+
+![Antonio FeijaoUK](assets/images/antonio-feijao-uk-snorkeling.jpg)
 
 - Currently, working has `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
