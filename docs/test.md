@@ -1,1 +1,7 @@
-test page md
+---
+layout: page
+title: awsome!
+
+---
+
+test page md v2
