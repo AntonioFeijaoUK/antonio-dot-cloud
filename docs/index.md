@@ -46,7 +46,9 @@ Also passionate about
 - `Humanism`
 - `Space`
 - `Physics`
-- `life in other planets`
+- `life on other planets`
+- of course my `family!`
+- and a lot more!
 
 ---
 
