@@ -6,7 +6,7 @@ github:
     name: MIT
   source:
     branch: "gh-pages"
-    path: "/"
+    path: "docs/"
   repository_url: "https://github.com/AntonioFeijaoUK/antonio-dot-cloud"
   
 title: Antonio Cloud Antonio Feijao UK
