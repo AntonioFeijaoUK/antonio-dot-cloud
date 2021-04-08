@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Antonio Feijao UK
 permalink: /about/
 ---
 
