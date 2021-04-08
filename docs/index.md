@@ -36,7 +36,8 @@ As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/archit
 
 - `AWS Advanced Networking`
 - `AWS Security Specialty`
-- [check my other certifications](https://antonio.cloud/certifications/)
+- you can also [check my other certifications and digital badges here](https://www.credly.com/users/antoniofeijaouk/badges)
+
 
 
 Other areas of expertise include:
