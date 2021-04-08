@@ -72,3 +72,18 @@ I hope you enjoy my website as much I enjoy updating it.
 >
 
 ---
+
+
+---
+
+## Blog posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
