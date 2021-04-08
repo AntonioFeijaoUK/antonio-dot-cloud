@@ -1,27 +1,5 @@
 ---
-title: "About Antonio Cloud, Antonio Feijao UK"
-
-layout: single
-
-author_profile: true
-
 permalink: /about/
-
-tagline: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
-
-header:
-  overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  image_description: "AWS Solutions Architect, Advanced Networking and Security Specialty certifications"
-  caption: "Photo credit: [**Antonio Feijao UK**](https://www.antoniocloud.com), snorkeling in Mexican waters."
-  actions:
-    - label: "Antonio Feijao UK"
-      url: "https://www.antoniocloud.com"
-
-toc: true
-toc_sticky: true
-toc_label: "About Antonio"
-toc_icon: "address-card"
 ---
 
 About Antonio Cloud, Antonio Feijao UK
