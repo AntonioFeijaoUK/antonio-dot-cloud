@@ -15,15 +15,18 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
       
-      {% include nav.html nav=page.nav %}
+     <!-- {% include nav.html nav=page.nav %}   -->
 
       
-      <h2>{{ site.data.samplelist.docs_list_title }}</h2>
-      <ul>
-        {% for item in site.data.samplelist.docs %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+     <!-- <h2>{{ site.data.samplelist.docs_list_title }}</h2>  -->
+      <!--       <ul> -->
+        {% for item in site.data.navigation-bar.docs %}
+        <div>
+          <span><a href="{{ item.url }}">{{ item.title }}</a></span><span>"  "</span>
+        </div>
         {% endfor %}
-      </ul>
+        
+      <!--       </ul> -->
       
 
       {{ content }}
