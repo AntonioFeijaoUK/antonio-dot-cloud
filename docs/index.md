@@ -1,12 +1,5 @@
 ---
 layout: home
-
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-    
 ---
 
 Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
