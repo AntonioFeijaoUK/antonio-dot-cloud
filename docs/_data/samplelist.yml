@@ -4,8 +4,11 @@ docs:
 - title: Antonio.Cloud
   url: /
 
+- title: Certifications
+  url: /certifications/
+
 - title: About
   url: /about/
 
-- title: Certifications
-  url: /certifications
+- title: Contact
+  url: /contact/
