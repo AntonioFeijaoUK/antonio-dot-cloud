@@ -4,6 +4,9 @@ docs:
 - title: Home
   url: /
 
+- title: Blog posts
+  url: /blog/
+
 - title: Certifications
   url: /certifications/
 
