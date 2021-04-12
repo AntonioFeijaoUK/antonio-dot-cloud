@@ -20,13 +20,17 @@ Do you have any comments, ideas, questions, anything to share?
 
 ## Antonio Feijao UK Social profiles
 
-* [LinkedIn - https://www.linkedin.com/in/antoniofeijaouk/](https://www.linkedin.com/in/antoniofeijaouk/)
+* [Antonio.Cloud - https://antonio.cloud](https://antonio.cloud/)
+
+* [LinkedIn - https://www.linkedin.com/in/antoniofeijaouk/](https://www.linkedin.com/in/antoniofeijaouk/) <-- actively use
   
-* [Github - https://github.com/AntonioFeijaoUK](https://github.com/AntonioFeijaoUK)
+* [Github - https://github.com/AntonioFeijaoUK](https://github.com/AntonioFeijaoUK/) <-- actively use
 
-* [Instagram - https://www.instagram.com/antoniofeijaouk/](https://www.instagram.com/antoniofeijaouk/)
+* [Twitter - https://twitter.com/AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK/) <-- use it sometimes
 
-* [Twitter - https://twitter.com/AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK)
+* [Instagram - https://www.instagram.com/antoniofeijaouk/](https://www.instagram.com/antoniofeijaouk/) <-- rarely in use
+ 
+* [Facebook - https://www.facebook.com/AntonioFeijaoUK/](https://www.facebook.com/AntonioFeijaoUK/) <-- not in use
 
 ---
 
