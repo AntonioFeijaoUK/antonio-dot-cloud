@@ -20,15 +20,15 @@ Do you have any comments, ideas, questions, anything to share?
 
 ## Antonio Feijao UK Social profiles
 
-* [Antonio.Cloud - https://antonio.cloud](https://antonio.cloud/)
+* [Antonio.Cloud - https://antonio.cloud](https://antonio.cloud/) <-- frequent use
 
-* [LinkedIn - https://www.linkedin.com/in/antoniofeijaouk/](https://www.linkedin.com/in/antoniofeijaouk/) <-- actively use
+* [LinkedIn - https://www.linkedin.com/in/antoniofeijaouk/](https://www.linkedin.com/in/antoniofeijaouk/) <-- frequent use
   
-* [Github - https://github.com/AntonioFeijaoUK](https://github.com/AntonioFeijaoUK/) <-- actively use
+* [Github - https://github.com/AntonioFeijaoUK](https://github.com/AntonioFeijaoUK/) <-- frequent use
 
 * [Twitter - https://twitter.com/AntonioFeijaoUK](https://twitter.com/AntonioFeijaoUK/) <-- use it sometimes
 
-* [Instagram - https://www.instagram.com/antoniofeijaouk/](https://www.instagram.com/antoniofeijaouk/) <-- rarely in use
+* [Instagram - https://www.instagram.com/antoniofeijaouk/](https://www.instagram.com/antoniofeijaouk/) <-- rare usage
  
 * [Facebook - https://www.facebook.com/AntonioFeijaoUK/](https://www.facebook.com/AntonioFeijaoUK/) <-- not in use
 
