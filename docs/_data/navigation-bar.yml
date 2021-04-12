@@ -4,11 +4,11 @@ docs:
 - title: Home
   url: /
 
+- title: Contact
+  url: /contact/
+
 - title: Certifications
   url: /certifications/
 
 - title: About
   url: /about/
-
-- title: Contact
-  url: /contact/
