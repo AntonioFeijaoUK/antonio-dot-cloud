@@ -46,5 +46,7 @@ Do you have any comments, ideas, questions, anything to share?
 
 * (...)
 
+* I have a page dedicated to [online training links and websites](/training/)
+
 ---
 
