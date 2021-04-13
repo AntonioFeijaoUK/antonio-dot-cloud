@@ -14,7 +14,7 @@ tags:
     - best-practices
 ---
 
-Docker images and containers start with basic and bonus advanced security ![Docker logo](assets/images/docker-logo-horizontal-logo-monochromatic-white.png)
+Docker images and containers start with basic and bonus advanced security ![Docker logo](/assets/images/docker-logo-horizontal-logo-monochromatic-white.png)
 
 ## Sample basic command for Docker containers and images
 
