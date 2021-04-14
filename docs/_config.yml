@@ -14,9 +14,18 @@ description: "Antonio.Cloud is the personal website of Antonio Feijao UK, Soluti
 #This is my personal website.
 #**The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
   
-google_analytics: UA-131227949-1
 
-permalink: none
+# Outputting
+permalink: /:categories/:title/
+
+# amount of posts to show
+paginate: 5 
+
+paginate_path: /page:num/
+
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London 
+
 
 # Plugins (previously gems:)
 plugins:
@@ -26,4 +35,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+google_analytics: UA-131227949-1
+
 
