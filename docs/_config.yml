@@ -16,6 +16,7 @@ description: "Antonio.Cloud is the personal website of Antonio Feijao UK, Soluti
   
 google_analytics: UA-131227949-1
 
+permalink: none
 
 # Plugins (previously gems:)
 plugins:
