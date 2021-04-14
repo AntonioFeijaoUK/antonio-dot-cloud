@@ -34,13 +34,13 @@ Do you have any comments, ideas, questions, anything to share?
 
 ## Antonio Feijao UK Learning platforms
 
-* https://app.pluralsight.com/profile/antoniofeijaouk
+* <https://app.pluralsight.com/profile/antoniofeijaouk>
 
-* https://www.futurelearn.com/
+* <https://www.futurelearn.com/>
 
-* https://cloudacademy.com/
+* <https://cloudacademy.com/>
 
-* https://learn.acloud.guru/profile/antoniofeijaouk
+* <https://learn.acloud.guru/profile/antoniofeijaouk>
 
 * (...)
 
