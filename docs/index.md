@@ -57,6 +57,8 @@ Also passionate about
 - `Space`
 - `Physics`
 - `life in other planets`
+- `family`
+- ... and a lot more!
 
 ---
 
