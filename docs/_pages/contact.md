@@ -12,7 +12,7 @@ permalink: /contact/
 
 Do you have any comments, ideas, questions, anything to share? 
 
-`antoniofeijao "AT" gmail.com`
+* `antoniofeijao "AT" gmail.com` <-- frequent use
 
 ---
 
