@@ -1,19 +1,11 @@
 theme: jekyll-theme-primer
-
-github:
-  private: true
-  license:
-    name: MIT
-  source:
-    branch: "gh-pages"
-    path: "/"
-  repository_url: "https://github.com/AntonioFeijaoUK/antonio-dot-cloud"
   
 title: Antonio Cloud, Antonio Feijao UK
+
 description: "Antonio.Cloud is the personal website of Antonio Feijao UK, Solutions Architect (SA) at Amazon Web Services (AWS). Antonio Feijao UK has speciality certifications of Advanced Networking and Security for the AWS Cloud. Antonio Feijao UK helps customers building secure, high-performing, resilient, and efficient infrastructure for their applications and workloads."
 #This is my personal website.
 #**The opinions expressed here are my own and do not necessarily represent those of current or past employers.**"
-  
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -25,6 +17,14 @@ paginate_path: /page:num/
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/London 
+
+
+search: true
+
+locale: "en-GB"
+
+# Build settings
+markdown: kramdown
 
 
 # Plugins (previously gems:)
@@ -39,3 +39,26 @@ plugins:
 google_analytics: UA-131227949-1
 
 
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+show_downloads: false
+
+
+
+
+github:
+  private: true
+  license:
+    name: MIT
+  source:
+    branch: "gh-pages"
+    path: "/"
+  repository_url: "https://github.com/AntonioFeijaoUK/antonio-dot-cloud"
+  
