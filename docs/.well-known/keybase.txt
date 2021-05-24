@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/antoniofeijaouk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antonio.cloud
+  * I am antoniofeijaouk (https://keybase.io/antoniofeijaouk) on keybase.
+  * I have a public key ASDivWMdG1KV-oxqyqdOrcfNKRDpDd_7eSmeZgnCPTV0wAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e2bd631d1b5295fa8c6acaa74eadc7cd2910e90ddffb79299e6609c23d3574c00a",
+      "host": "keybase.io",
+      "kid": "0120e2bd631d1b5295fa8c6acaa74eadc7cd2910e90ddffb79299e6609c23d3574c00a",
+      "uid": "cedc36164283852f8b5a88d5e4b70119",
+      "username": "antoniofeijaouk"
+    },
+    "merkle_root": {
+      "ctime": 1621848167,
+      "hash": "8aa0a3179d43e785185e7dc2c4a9073c55192f5c35596b2cfb6e92b772bc02f8b7c650d600e9de3cdd695e0fe06406f3bbe879faf846c1bc618b2e328bc5547c",
+      "hash_meta": "0a553f4673e64d95257d727bd93ba62fe6640afaaf135579ef76f769995e8185",
+      "seqno": 20028081
+    },
+    "service": {
+      "entropy": "FySOGNynqM0DDTAJoCGsLy5q",
+      "hostname": "antonio.cloud",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1621848206,
+  "expire_in": 504576000,
+  "prev": "7c871e2de4f58c8430b6e720bfbc40a03fbc503110aafbac15b9f778a08bd926",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4r1jHRtSlfqMasqnTq3HzSkQ6Q3f+3kpnmYJwj01dMAKp3BheWxvYWTESpcCDMQgfIceLeT1jIQwtucgv7xAoD+8UDEQqvusFbn3eKCL2SbEINIRGtpa5P1Cg+D+PnQ6OnBZzw3naZisJPd4Uz7D15U6AgHCo3NpZ8RA4hS3q6J5q34Kuv6/ahZ9ByDXxvqpiyjDs33ktkkBi1EQB2NYVimDElrnHb7Fz6RfN5TJwaIUv3JZQxcwR7GLCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKjrSFkuxaFwU5Do5UIJwVF361/3qRWitOVryokMZrDco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antoniofeijaouk
+
+==================================================================
