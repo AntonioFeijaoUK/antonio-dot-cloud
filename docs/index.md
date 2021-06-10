@@ -87,5 +87,3 @@ I hope you enjoy my website as much I enjoy updating it.
 >
 
 ---
-
-## Latests posts
