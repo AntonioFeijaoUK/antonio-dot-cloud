@@ -4,7 +4,7 @@ classes: wide
 
 author_profile: true
 
-tagline: "Solutions Architect (SA) at Amazon Web Services (AWS) with speciality certifications of `Advanced Networking` and `Security Specialty`."
+tagline: "AWS Infrastructure Architect at Genomics England with `Advanced Networking` and `Security` speciality certifications."
 
 header:
   overlay_image: "/assets/images/antonio-feijao-uk-snorkeling.jpg"
@@ -16,13 +16,17 @@ header:
       url: "https://antonio.cloud"
 ---
 
-Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud).
+## Welcome 
 
-[Antonio.Cloud](https://Antonio.Cloud) is the personal website of [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/). Here I share my personal opinions and some study notes that might help others.
+Hi and welcome to [Antonio.Cloud](https://Antonio.Cloud), personal website of [Antonio Feijao UK](https://www.linkedin.com/in/antoniofeijaouk/).
 
-- Currently, working has `Solutions Architect` (SA) at [Amazon Web Services (AWS)](https://aws.amazon.com).
+Here I share my personal opinions and some study notes that might help others.
 
-As an SA for AWS, I help customers building `secure`, `high-performing`, `resilient`, and `efficient infrastructure` for their applications and workloads.
+Currently, working as a `AWS Infrastructure Architect` at [Genomics England](https://www.genomicsengland.co.uk/).
+
+With the `Advanced Networking` and `Security` `Speciality certifications`, I enabling others to deliver genomic healthcare and accelerate genomic research!
+
+Helping teams building `secure`, `high-performing`, `resilient`, and `efficient infrastructure` for their applications and workloads.
 
 As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) five pillars:
 
@@ -32,41 +36,50 @@ As I guidance, I follow the [AWS Well-Architected](https://aws.amazon.com/archit
 - `performance efficiency`
 - `cost optimization`
 
-[Antonio Feijao UK](https://Antonio.Cloud) has various technical certifications, including
+---
 
-- `AWS Advanced Networking`
-- `AWS Security Specialty`
-- [check my other certifications](https://antonio.cloud/certifications/)
+## Technical skills and certifications
 
-
-Other areas of expertise include:
-
-- `Linux OS`, `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, `Debian`, ...
-- `Bash`, `shell-scripting`
-- `Python 3`
-- `Cisco Networking`, `Cisco Routing`, `Cisco Firewalls`, `Cisco ASA`
-- `Raspberry Pi`, `electronics`
-- `Cyber Security`, `IT Security`
-- ... and more
-
-Also passionate about
-
-- `Planet Earth`
-- `Travel`
-- `Humanism`
-- `Space`
-- `Physics`
-- `life in other planets`
-- `family`
-- ... and a lot more!
+* `AWS Advanced Networking`
+* `AWS Security Specialty`
+* [check my other certifications](https://antonio.cloud/certifications/)
 
 ---
+
+## Areas of expertise
+
+* `Linux OS`, `Red Hat`, `CentOS`, `Debian`, `Ubuntu`, `Debian`, ...
+* `Bash`, `shell-scripting`
+* `Python 3`
+* `Cisco Networking`, `Cisco Routing`, `Cisco Firewalls`, `Cisco ASA`
+* `Raspberry Pi`, `electronics`
+* `Cyber Security`, `IT Security`
+* ... and more
+
+---
+
+## other ares of interest
+
+* `Planet Earth`
+* `Travel`
+* `Humanism`
+* `Space`
+* `Physics`
+* `life in other planets`
+* `family`
+* ... and a lot more!
+
+---
+
+## Disclaimer 
 
 I hope you enjoy my website as much I enjoy updating it.
 
-**The opinions expressed are my own and do not necessarily represent those of [current](https://aws.amazon.com) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
+**The opinions expressed are my own and do not necessarily represent those of [current](https://www.genomicsengland.co.uk/) or [past employers](https://www.linkedin.com/in/antoniofeijaouk/).**
 
 ---
+
+## Source of Knowledge
 
 > The only source of knowledge is experience.
 > 
@@ -74,3 +87,5 @@ I hope you enjoy my website as much I enjoy updating it.
 >
 
 ---
+
+## Latests posts
