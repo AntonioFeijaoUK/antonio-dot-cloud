@@ -24,7 +24,7 @@ Here I share my personal opinions and some study notes that might help others.
 
 Currently, working as a `AWS Infrastructure Architect` at [Genomics England](https://www.genomicsengland.co.uk/).
 
-With the `Advanced Networking` and `Security` `speciality certifications`, I enabling others to deliver genomic healthcare and accelerate genomic research!
+With the `Advanced Networking` and `Security` `speciality certifications`, I help enabling others to deliver genomic healthcare and accelerate genomic research!
 
 Helping teams building `secure`, `high-performing`, `resilient`, and `efficient infrastructure` for their applications and workloads.
 
