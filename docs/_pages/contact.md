@@ -34,7 +34,7 @@ Do you have any comments, ideas, questions, anything to share?
 
 ## Antonio Feijao UK Learning platforms
 
-* [pluralsight.com](https://app.pluralsight.com/profile/antoniofeijaouk)
+* [pluralsight.com, my profile IQ](https://app.pluralsight.com/profile/antoniofeijaouk)
 
 * [futurelearn.com](https://www.futurelearn.com/)
 
